@@ -1,7 +1,10 @@
 **"Project Seedball"** is an innovative, geo-location-based game that combines environmental education, real-world exploration, and blockchain rewards to promote ecological stewardship.
 
-**Key Features:**
-🌍 Geo-Location Exploration: Navigate real-world environments to collect game items like seeds, soil, and compost.
+<ul>
+  <li>🌍 Geo-Location Exploration: Navigate real-world environments to collect game items like seeds, soil, and compost.</li>
+</ul>
+  **Key Features:**
+
 📚 Learning and Earning: Engage with educational content on environmental topics, earn badges, and advance levels through interactive quizzes and tasks.
 🌱 Seedball Deployment: Use collected items to craft and deploy seed balls at specific locations. Perform nurturing tasks like watering and fencing to ensure growth.
 🌳 Harvesting Rewards: Grow virtual plants, harvest produce, and earn tokens in a structured harvest cycle.
